@@ -1,7 +1,16 @@
 
 <!-- Daniel Rivni | GitHub Profile README -->
 
+<p align="center">
+  <img src="https://readme-hero.vercel.app/api?username=DanielRivni&image=https://images.unsplash.com/photo-1535223289827-42f1e9919769&title=Welcome%20to%20My%20GitHub!&font=Architects+Daughter&description=Junior%20Software%20Engineer%20%7C%20DevOps%20Enthusiast%20%7C%20Loves%20Automation&center=true&align=center&theme=dark" alt="hero banner" />
+</p>
+
 <h1 align="center">Hi there 👋, I'm Daniel Rivni</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hi,+I'm+Daniel+Rivni!;Junior+Software+Engineer;DevOps+and+Cloud+Enthusiast;Full-Stack+Developer&center=true&width=500&height=45" />
+</p>
+
 <h3 align="center">Junior Software Engineer | DevOps Enthusiast | Full-Stack Developer</h3>
 
 <p align="center">
@@ -29,7 +38,7 @@
 
 ```bash
 Languages:        Python | JavaScript | Java | Bash | C
-Frontend:         React | Vue.js 
+Frontend:         React | Vue.js | Tailwind CSS | Vite
 Backend:          Node.js
 DevOps & Cloud:   Docker | Kubernetes | Jenkins | Git | Linux
 Databases:        Firebase | Firestore | MongoDB

@@ -1,17 +1,8 @@
 
 <!-- Daniel Rivni | GitHub Profile README -->
 
-<p align="center">
-  <img src="https://readme-hero.vercel.app/api?username=DanielRivni&image=https://images.unsplash.com/photo-1535223289827-42f1e9919769&title=Welcome%20to%20My%20GitHub!&font=Architects+Daughter&description=Junior%20Software%20Engineer%20%7C%20DevOps%20Enthusiast%20%7C%20Loves%20Automation&center=true&align=center&theme=dark" alt="hero banner" />
-</p>
-
 <h1 align="center">Hi there 👋, I'm Daniel Rivni</h1>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hi,+I'm+Daniel+Rivni!;Junior+Software+Engineer;DevOps+and+Cloud+Enthusiast;Full-Stack+Developer&center=true&width=500&height=45" />
-</p>
-
-<h3 align="center">Junior Software Engineer | DevOps Enthusiast | Full-Stack Developer</h3>
+<h3 align="center">Junior Software Engineer | DevOps Enthusiast</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/danielrivni/">
@@ -28,7 +19,6 @@
 
 - 🎓 CS graduate from Ariel University (2025)
 - 🔧 DevOps | Cloud | Automation fan — Docker, Kubernetes, Jenkins, Git are my jam
-- 💻 Full-stack projects with React, TypeScript, Node.js, Vue.js
 - 🧪 Always learning, building, breaking, and fixing
 - ✈️ Former F-35 systems operator in the Israeli Air Force — teamwork, precision, pressure? I live it.
 
@@ -38,7 +28,7 @@
 
 ```bash
 Languages:        Python | JavaScript | Java | Bash | C
-Frontend:         React | Vue.js | Tailwind CSS | Vite
+Frontend:         React | Vue.js
 Backend:          Node.js
 DevOps & Cloud:   Docker | Kubernetes | Jenkins | Git | Linux
 Databases:        Firebase | Firestore | MongoDB
@@ -50,17 +40,6 @@ Databases:        Firebase | Firestore | MongoDB
 
 - 🧾 [**Coupix**](https://github.com/DanielRivni/Coupix.git): Coupon manager app built with React, TypeScript, Vite & Tailwind — powered by Kubernetes CI/CD via Jenkins & Docker.
 - 🚁 [**Drone Auto Landing**](https://github.com/DanielRivni/DroneAutoLanding): Python project that autonomously lands a drone using real-time ArUco marker detection.
-- 🚙 **Road-Buddiz**: [Coming Soon] — A new project in the works...
-
----
-
-📊 **GitHub Stats**
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DanielRivni&show_icons=true&theme=default" alt="Daniel's GitHub stats" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DanielRivni&theme=default" alt="Daniel's GitHub streak" />
-</p>
 
 ---
 

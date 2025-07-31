@@ -2,7 +2,7 @@
 <!-- Daniel Rivni | GitHub Profile README -->
 
 <h1 align="center">Hi there 👋, I'm Daniel Rivni</h1>
-<h3 align="center">Junior Software Engineer | DevOps Enthusiast</h3>
+<h3 align="center">Software Engineer</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/danielrivni/">
